@@ -1,10 +1,9 @@
 # WindowsService1
 
-Tutorial part 1 of 3 by Fabio Scopel
+Windows Service tutorial by Fabio Scopel.
 
-Found here:
+Tutorial part 1 of 3 can be found here:
 https://www.youtube.com/watch?v=uM9o8GsO_u4
-
 
 
 Installer extensions can be found here:
