@@ -1,0 +1,7 @@
+C:\Users\Kenn\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe.config
+C:\Users\Kenn\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe
+C:\Users\Kenn\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.pdb
+C:\Users\Kenn\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\obj\Release\WindowsService1.ProjectInstaller.resources
+C:\Users\Kenn\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\obj\Release\WindowsService1.csproj.GenerateResource.Cache
+C:\Users\Kenn\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\obj\Release\WindowsService1.exe
+C:\Users\Kenn\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\obj\Release\WindowsService1.pdb
